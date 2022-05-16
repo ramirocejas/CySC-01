@@ -1,6 +1,6 @@
 # ADC - Sensor de Temperatura
 
-Alumno: Rosales Agustin y Ortuño Alejandro
+Alumno: Ramiro cejas, amarilla joaquin y Comisso valentin
 
 Curso: 6to 2da Avionica
 
